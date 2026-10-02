@@ -181,5 +181,4 @@ These are in the code and were deliberately left unchanged:
 | File | What it is |
 |---|---|
 | `mk-model.ipynb` | The notebook, split into 11 documented sections |
-| `mk-model.original-backup.ipynb` | The original single-cell notebook, unchanged |
 | `README.md` | This file |
