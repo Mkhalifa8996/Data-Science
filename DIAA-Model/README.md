@@ -14,4 +14,4 @@ The DIAA model leverages a **Knowledge Distillation-based architecture** combine
 
 ## 📊 Performance & Notebook
 The model training pipelines, hyperparameters, and experimental evaluation plots can be explored interactively:
-- **Interactive Notebook:** [View on Kaggle](https://kaggle.comhttps://www.kaggle.com/code/mostafakhalifa/diaa-model)
+- **Interactive Notebook:** [View on Kaggle](https://www.kaggle.com/code/mostafakhalifa/diaa-model)
